@@ -1,0 +1,24 @@
+﻿@model TheWebApp.Models.Person
+
+@{
+    ViewBag.Title = "Delete Person";
+}
+
+<h2>Delete Person Record</h2><hr>
+
+<h3>Do you want to delete person record having email id '@Html.DisplayFor(model => model.Email)'  </h3>
+    
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    <p>
+        <button type="submit" value="Delete" class="btn btn-danger">
+            <i class="glyphicon glyphicon-trash"></i>
+            Delete
+        </button>
+        
+        <a href="@Url.Action("Index")" class="btn btn-default">
+        <i class="glyphicon glyphicon-arrow-left"></i>
+        Back to List
+        </a>
+    </p>
+}

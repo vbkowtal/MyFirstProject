@@ -1,0 +1,42 @@
+﻿@model TheWebApp.Models.Person
+
+@{
+    ViewBag.Title = "Person Details";
+}
+
+<h2>Person Details</h2><hr>
+<fieldset>
+    <legend>Person</legend>
+    <table>
+        <tr>
+            <td>@Html.DisplayNameFor(model => model.FirstName)</td>
+            <td><b>@Html.DisplayFor(model => model.FirstName)</b></td>
+        </tr>
+        <tr>
+            <td>@Html.DisplayNameFor(model => model.LastName)</td>
+            <td><b>@Html.DisplayFor(model => model.LastName)</b></td>
+        </tr>
+        <tr>
+            <td>@Html.DisplayNameFor(model => model.DOB)</td>
+            <td><b>@Html.DisplayFor(model => model.DOB)</b></td>
+        </tr>
+        <tr>
+            <td>@Html.DisplayNameFor(model => model.Mobile)</td>
+            <td><b>@Html.DisplayFor(model => model.Mobile)</b></td>
+        </tr>
+        <tr>
+            <td>@Html.DisplayNameFor(model => model.Email)</td>
+            <td><b>@Html.DisplayFor(model => model.Email)</b></td>
+        </tr>
+    </table>
+</fieldset>
+<p>
+    <a href="@Url.Action("Edit", new { id = Model.PersonID })" class="btn btn-primary">
+        <i class="glyphicon glyphicon-edit"></i>
+        Edit
+    </a>
+    <a href="@Url.Action("Index")" class="btn btn-default">
+        <i class="glyphicon glyphicon-arrow-left"></i>
+        Back to List
+    </a>
+</p>

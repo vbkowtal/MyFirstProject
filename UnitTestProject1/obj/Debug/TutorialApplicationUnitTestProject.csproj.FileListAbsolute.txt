@@ -1,0 +1,135 @@
+D:\DevOps_Tutorial\TutorialApplication\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\DevOps_Tutorial\TutorialApplication\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\DevOps_Tutorial\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\DevOps_Tutorial\TutorialApplication\UnitTestProject1\obj\Debug\TutorialApplicationUnitTestProject.csprojResolveAssemblyReference.cache
+D:\DevOps_Tutorial\TutorialApplication\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\DevOps_Tutorial\TutorialApplication\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+E:\TutorialApplication\UnitTestProject1\bin\Debug\ApplicationInsights.config
+E:\TutorialApplication\UnitTestProject1\bin\Debug\roslyn\csc.exe
+E:\TutorialApplication\UnitTestProject1\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\TutorialApplication\UnitTestProject1\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TutorialApplication\UnitTestProject1\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\roslyn\vbc.exe
+E:\TutorialApplication\UnitTestProject1\bin\Debug\roslyn\VBCSCompiler.exe
+E:\TutorialApplication\UnitTestProject1\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\TutorialApplication\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\TutorialApplication.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Owin.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\System.Web.Mvc.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\System.Web.Optimization.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Owin.Security.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\Owin.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\EntityFramework.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\System.Web.Razor.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\System.Web.WebPages.Razor.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\System.Web.WebPages.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\TutorialApplication\UnitTestProject1\bin\Debug\TutorialApplication.pdb
+E:\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Owin.xml
+E:\TutorialApplication\UnitTestProject1\bin\Debug\System.Web.Mvc.xml
+E:\TutorialApplication\UnitTestProject1\bin\Debug\System.Web.Optimization.xml
+E:\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Owin.Security.xml
+E:\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\TutorialApplication\UnitTestProject1\bin\Debug\EntityFramework.xml
+E:\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\TutorialApplication\UnitTestProject1\bin\Debug\System.Web.Razor.xml
+E:\TutorialApplication\UnitTestProject1\bin\Debug\System.Web.WebPages.Razor.xml
+E:\TutorialApplication\UnitTestProject1\bin\Debug\System.Web.WebPages.xml
+E:\TutorialApplication\UnitTestProject1\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\TutorialApplication\UnitTestProject1\obj\Debug\TutorialApplicationUnitTestProject.csprojResolveAssemblyReference.cache
+E:\TutorialApplication\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\TutorialApplication\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\ApplicationInsights.config
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\roslyn\csc.exe
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\roslyn\vbc.exe
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\EntityFramework.dll
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Owin.dll
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\System.Web.Mvc.dll
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\TutorialApplication.dll
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\System.Web.Optimization.dll
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Owin.dll
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\TutorialApplication.pdb
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\EntityFramework.xml
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Owin.xml
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\System.Web.Mvc.xml
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\System.Web.Optimization.xml
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\obj\Debug\TutorialApplicationUnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\pooja.gandhi\Downloads\TutorialApplication\TutorialApplication\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\ApplicationInsights.config
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\EntityFramework.dll
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Owin.dll
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\System.Web.Mvc.dll
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\TutorialApplication.dll
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\System.Web.Optimization.dll
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Owin.Security.dll
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Owin.dll
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\TutorialApplication.pdb
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\TutorialApplication.dll.config
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\EntityFramework.xml
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Owin.xml
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\System.Web.Mvc.xml
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\System.Web.Optimization.xml
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Owin.Security.xml
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\obj\Debug\TutorialApplicationUnitTestProject.csprojAssemblyReference.cache
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\obj\Debug\TutorialApplicationUnitTestProject.csproj.CoreCompileInputs.cache
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\obj\Debug\TutorialApplicationUnitTestProject.csproj.CopyComplete
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\DevOps Session Videos\DevOps\Assignment\Assignment_And_.NetSampleApplication\Assignment_And_.NetSampleApplication\TutorialApplication\TutorialApplication\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
